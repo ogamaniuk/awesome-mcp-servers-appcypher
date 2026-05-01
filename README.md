@@ -285,6 +285,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 - <img src="https://www.make.com/favicon.ico" height="14"/> [Make](https://github.com/integromat/make-mcp-server)<sup><sup>⭐</sup></sup> - Turn Make scenarios into callable tools for AI assistants.
 - <img src="https://www.taskade.com/favicon.ico" height="14"/> [Taskade MCP](https://github.com/taskade/mcp)<sup><sup>⭐</sup></sup> - Official Taskade MCP server + OpenAPI → MCP codegen to build AI agent tools from any API and connect Taskade to Claude, Cursor, and more.
+- <img src="https://instafill.ai/favicon.ico" height="14"/> [Instafill.ai](https://instafill.ai) - AI-powered PDF form filler. Auto-completes any PDF form by extracting fields and filling them from saved profiles, uploaded files, or supplied data.
 
 <br />
 
